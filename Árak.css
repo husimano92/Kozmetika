@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background: url('../Beauty/img/zzz.jpg') ;
+    padding:0;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    font-weight: 300;
+    color: #ffffff;
+    overflow-x: hidden;
+    
+}
+
+
+
+.menu{
+    color: black;
+    margin-top: 20px;
+    margin-left: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    }
+    
+    .menu a{
+        margin:21px;
+        text-decoration: none;
+        color:black;
+    }
+
+    
+
+
+       .árak{
+        color:black;
+        
+        margin: auto;
+        margin-top: 100px;
+    }
+    h3{
+        padding-top: 50px;
+        color:black;
+        margin-left:350px;
+        font-size: 40px ;
+        font-weight: 1000;
+        font-style: oblique; 
+        margin-bottom: 0px;
+        
+    }
+
+
+    h5{
+        margin-top: 0px;
+        color:black;
+        margin-left:330px;
+        font-size: 15px ;
+        
+        font-style: oblique;  
+    }
+
+.árak td{
+    padding:px;
+    padding-right: px;
+    
+
+}
+
+thead{
+    font-style: italic;
+}
+
+
+.első{
+    margin-left: 150px;
+    padding-right: 200px;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    color:black; 
+    border-bottom: 2px dashed black ;
+    display:inline-block;
+}
+.masodik{
+    color:black;  
+    padding-left: 200px;
+    padding-bottom: px;
+    border-bottom: 2px dashed black ;
+    
+}
+
+.Smink{
+    padding-top: 50px;
+    padding-left: 30px;
+    color: black;
+ border-bottom: none;
+}
+
+.Árak{
+    padding-left: 100px; 
+    color: black;
+    border-bottom: none;
+}

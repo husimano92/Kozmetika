@@ -1,0 +1,148 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+body {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    font-weight: 300;
+    color: #ffffff;
+    overflow-x: hidden;
+    margin: 30px  70px 30px 40px ;
+}
+
+
+
+
+
+
+
+.tm-welcome {
+    display: flex;
+}
+
+
+
+.tm-welcome-right {
+    max-width: 205px;
+    width: 16%;
+    -webkit-transform: skew(-10deg);
+    transform: skew(-10deg);
+    background: #ffffff;
+    margin-left: -52px;
+}
+
+
+.tm-logo {
+    width: 300px;
+    height: 300px;
+    top: 25%;
+}
+
+
+
+.tm-site-name {
+    text-shadow: 3px 3px 4px #666;
+}
+
+
+h1 {
+    font-size: 3.6rem;
+}
+
+
+
+.tm-logo {
+    width: 370px;
+    height: 370px;
+    background: url(../Beauty/img/szepseg.jpg) center no-repeat;
+    border-radius: 50%;
+    border: 3px white;
+    background-size: cover;
+    position: absolute;
+    right: -13%;
+    top: 18%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+}
+
+
+
+.tm-welcome-left {
+    background-color: #CEC0AE;
+    padding: 40px;
+    max-width: 925px;
+    width: 84%;
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+    padding-top: 50px;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.table-table-striped{
+    background-color: black;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+.col-md-4{
+padding-top: 120px;
+}
+
+.form-control{
+    border: none;
+border-bottom: 1px solid #CC9999;
+
+}
+
+.galery{
+    margin: 12px;
+    padding: 15px;
+    background-color: #CC9999;
+    display:inline-block;
+}
+
+
+
+.menu{
+color: black;
+margin-top: 20px;
+}
+
+
+
+
+.tm-mb-25{
+    font-size: 1.5rem;
+    
+}
+
+
+.tm-welcome-content{
+    max-width: 460px;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.menu a{
+ text-decoration: none;
+ margin:21px;
+ color:black;
+}
+
+
+

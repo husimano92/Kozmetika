@@ -1,0 +1,1 @@
+alert("Akcios arckezelés: 25%-al olcsobban!");
